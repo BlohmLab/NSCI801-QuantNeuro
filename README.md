@@ -10,6 +10,8 @@ This course is in tutorial format using Python and Google Colab.
 * Statistics and models in scientific discovery (Pearl)
 * Study design (power, sample size, effect size) 
 
+[Intro slides (NSCI801_Intro.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_Intro.ipynb)
+
 ### Intro Python (Joe)
 
 * Google Colab interface
