@@ -84,3 +84,7 @@ This course is in tutorial format using Python and Google Colab.
 * Statistical considerations (multiple comparisons, exploratory analysis, hypothesis testing)
 * Open Science methods
 * Open science vs patents (required for drug discovery)
+
+### Further readings
+
+* [10 common stats mistakes paper](https://elifesciences.org/articles/48175)
