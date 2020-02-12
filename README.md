@@ -19,10 +19,14 @@ This course is in tutorial format using Python and Google Colab.
 * Importing and manipulating data
 * Graphics 
 
+[Intro Python (NSCI801_Intro_python.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_intro_python.ipynb)
+
 ### Advanced Python (Joe)
 
 * Vectors and Matrices
 * Functions 
+
+[Advanced Python (NSCI801_Advanced_python.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_advanced_python.ipynb)
 
 ### Data collection / signal processing (Joe)
 
@@ -31,6 +35,8 @@ This course is in tutorial format using Python and Google Colab.
 * DAQ
 * Filtering (noise, differentiation, integration)
 * Time vs frequency analysis 
+
+[Data Collection/Signal Processing (NSCI801_acquisition_filters.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_acquisition_filters.ipynb)
 
 ### Statistics and Hypothesis testing - basics (Joe)
 
@@ -42,12 +48,16 @@ This course is in tutorial format using Python and Google Colab.
 * Different test statistics
 * Confidence intervals and bootstrap 
 
+[Data Collection/Signal Processing (NSCI801_Descriptive_stats.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_Descriptive_Stats-NEW.ipynb)
+
 ### Statistics and Hypothesis testing - advanced (Joe)
 
 * ANOVA (between-subject, factorial, within-subject/repeated measures)
 * Measuring effect size
 * Multiple regression
 * Non-parametric tests 
+
+[Data Collection/Signal Processing (NSCI801_Advanced_stats.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_Advanced_stats.ipynb)
 
 ### Quantitative wet lab / bench methods (Joe)
 
