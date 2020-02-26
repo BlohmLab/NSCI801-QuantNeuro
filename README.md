@@ -63,7 +63,7 @@ This course is in tutorial format using Python and Google Colab.
 
 * Image processing 
 
-[Image Processing (NSCI801_Advanced_stats.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_Image_Processing_Proper_v2.ipynb)
+[Image Processing (NSCI801_Image_Processing_Proper_v2.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_Image_Processing_Proper_v2.ipynb)
 
 ### Statistics and Hypothesis testing - Bayesian (Gunnar)
 
