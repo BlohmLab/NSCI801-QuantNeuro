@@ -48,7 +48,7 @@ This course is in tutorial format using Python and Google Colab.
 * Different test statistics
 * Confidence intervals and bootstrap 
 
-[Data Collection/Signal Processing (NSCI801_Descriptive_stats.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_Descriptive_Stats-NEW.ipynb)
+[Daescriptive Statistic (NSCI801_Descriptive_stats.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_Descriptive_Stats-NEW.ipynb)
 
 ### Statistics and Hypothesis testing - advanced (Joe)
 
@@ -57,11 +57,13 @@ This course is in tutorial format using Python and Google Colab.
 * Multiple regression
 * Non-parametric tests 
 
-[Data Collection/Signal Processing (NSCI801_Advanced_stats.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_Advanced_stats.ipynb)
+[Statistics and hypothesis testing (NSCI801_Advanced_stats.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_Advanced_stats.ipynb)
 
 ### Quantitative wet lab / bench methods (Joe)
 
 * Image processing 
+
+[Image Processing (NSCI801_Advanced_stats.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_Image_Processing_Proper_v2.ipynb)
 
 ### Statistics and Hypothesis testing - Bayesian (Gunnar)
 
