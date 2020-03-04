@@ -48,7 +48,7 @@ This course is in tutorial format using Python and Google Colab.
 * Different test statistics
 * Confidence intervals and bootstrap 
 
-[Daescriptive Statistic (NSCI801_Descriptive_stats.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_Descriptive_Stats-NEW.ipynb)
+[Descriptive Statistic (NSCI801_Descriptive_stats.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_Descriptive_Stats-NEW.ipynb)
 
 ### Statistics and Hypothesis testing - advanced (Joe)
 
@@ -72,6 +72,8 @@ This course is in tutorial format using Python and Google Colab.
 * Bayes Factor
 * Maximum A Posteriori (MAP) estimation
 * Bayesian ANOVA 
+
+[Bayesian statistics (NSCI801_Bayesian-stats.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_Bayesian-stats.ipynb)
 
 ### Models in Neuroscience (Gunnar)
 
