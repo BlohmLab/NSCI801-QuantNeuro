@@ -102,3 +102,4 @@ This course is in tutorial format using Python and Google Colab.
 ### Further readings
 
 * [10 common stats mistakes paper](https://elifesciences.org/articles/48175)
+* [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/) free online book by Russell A. Poldrack
