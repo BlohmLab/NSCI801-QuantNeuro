@@ -81,6 +81,8 @@ This course is in tutorial format using Python and Google Colab.
 * Usefulness of models
 * Parameter search (Newton) and model fitting methods 
 
+**!!! Classes from now onwards will happen online! Email me if you haven't heard from me!***
+
 ### Data Neuroscience overview (Gunnar)
 
 * Promises and limitations (Pearl)
