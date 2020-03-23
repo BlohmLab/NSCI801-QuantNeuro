@@ -79,7 +79,7 @@ This course is in tutorial format using Python and Google Colab.
 
 * Models in scientific discovery (Pearl)
 * Usefulness of models
-* Parameter search (Newton) and model fitting methods 
+* Model fitting 
 
 <font color="red">**!!! Classes from now onwards will happen online! Email me if you haven't heard from me!**</font>
 
