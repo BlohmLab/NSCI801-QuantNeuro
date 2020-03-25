@@ -46,7 +46,7 @@ This course is in tutorial format using Python and Google Colab.
 * Statistical significance
 * Multiple comparisons
 * Different test statistics
-* Confidence intervals and bootstrap 
+* Confidence intervals
 
   [Descriptive Statistic (NSCI801_Descriptive_stats.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_Descriptive_Stats-NEW.ipynb)
 
@@ -80,6 +80,7 @@ This course is in tutorial format using Python and Google Colab.
 * Models in scientific discovery (Pearl)
 * Usefulness of models
 * Model fitting 
+* bootstrap
 
 <font color="red">**!!! Classes from now onwards will happen online! Email me if you haven't heard from me!**</font>
 
