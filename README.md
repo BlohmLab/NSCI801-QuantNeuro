@@ -82,8 +82,6 @@ This course is in tutorial format using Python and Google Colab.
 * Model fitting 
 * bootstrap
 
-  <font color="red">**!!! Classes from now onwards will happen online! Email me if you haven't heard from me!**</font>
-
   [Model fitting (NSCI801_ModelFitting.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_ModelFitting.ipynb)
 
 ### Data Neuroscience overview (Gunnar)
