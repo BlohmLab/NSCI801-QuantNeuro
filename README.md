@@ -90,7 +90,7 @@ This course is in tutorial format using Python and Google Colab.
 * Data organization (format, DB)
 * Blind data processing: machine learning techniques (classification, dimensionality reduction, decoding) 
 
-  [Model fitting (NSCI801_DataNeuroscience.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_DataNeuroscience.ipynb)
+  [Data Neuroscience (NSCI801_DataNeuroscience.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_DataNeuroscience.ipynb)
   
 ### Correlation vs causality (Gunnar)
 
