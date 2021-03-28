@@ -98,7 +98,7 @@ This course is in tutorial format using Python and Google Colab.
 * How to achieve causality
 * Problem of unobserved variables in high-dimensional problems 
 
-  [Vorrelation vs causality (NSCI801_CorrelationVsCausality.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_CorrelationVsCausality.ipynb)
+  [Correlation vs causality (NSCI801_CorrelationVsCausality.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_CorrelationVsCausality.ipynb)
 
 ### Reproducibility, reliability, validity (Gunnar)
 
