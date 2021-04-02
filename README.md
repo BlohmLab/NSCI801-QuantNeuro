@@ -106,6 +106,8 @@ This course is in tutorial format using Python and Google Colab.
 * Open Science methods
 * Open science vs patents (required for drug discovery)
 
+  [Reproducibility, reliability, validity (NSCI801_Reproducibility.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_Reproducibility.ipynb)
+
 ### Further readings
 
 * [10 common stats mistakes paper](https://elifesciences.org/articles/48175)
