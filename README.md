@@ -3,6 +3,8 @@
 
 This course is in tutorial format using Python and Google Colab. 
 
+You can find the course materials in a Jupyter Book here: [StatsBook](https://blohmlab.github.io/StatsBook/README.html)
+
 ## Syllabus
 ### Introduction (Gunnar)
 
