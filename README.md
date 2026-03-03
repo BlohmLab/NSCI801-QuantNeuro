@@ -14,7 +14,7 @@ You can find the course materials in a Jupyter Book here: [StatsBook](https://bl
 
   [Intro slides (NSCI801_Intro.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_Intro.ipynb)
 
-### Intro Python (Joe)
+### Intro Python (Kaitlyn)
 
 * Google Colab interface
 * Basic syntax and commands
@@ -23,14 +23,14 @@ You can find the course materials in a Jupyter Book here: [StatsBook](https://bl
 
   [Intro Python (NSCI801_Intro_python.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_intro_python.ipynb)
 
-### Advanced Python (Joe)
+### Advanced Python (Kaitlyn)
 
 * Vectors and Matrices
 * Functions 
 
   [Advanced Python (NSCI801_Advanced_python.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_advanced_python.ipynb)
 
-### Data collection / signal processing (Joe)
+### Data collection / signal processing (Kaitlyn)
 
 * Data types
 * Sampling
@@ -40,7 +40,7 @@ You can find the course materials in a Jupyter Book here: [StatsBook](https://bl
 
   [Data Collection/Signal Processing (NSCI801_acquisition_filters.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_acquisition_filters.ipynb)
 
-### Statistics and Hypothesis testing - basics (Joe)
+### Statistics and Hypothesis testing - basics (Kaitlyn)
 
 * Descriptors: central tendencies (mean, median, mode), Spread (Range, variance, percentiles), Shape (skew, kurtosis)
 * Correlation / regression
@@ -52,7 +52,7 @@ You can find the course materials in a Jupyter Book here: [StatsBook](https://bl
 
   [Descriptive Statistic (NSCI801_Descriptive_stats.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_Descriptive_Stats-NEW.ipynb)
 
-### Statistics and Hypothesis testing - advanced (Joe)
+### Statistics and Hypothesis testing - advanced (Kaitlyn)
 
 * ANOVA (between-subject, factorial, within-subject/repeated measures)
 * Measuring effect size
@@ -61,7 +61,7 @@ You can find the course materials in a Jupyter Book here: [StatsBook](https://bl
 
   [Statistics and hypothesis testing (NSCI801_Advanced_stats.ipynb)](https://github.com/BlohmLab/NSCI801-QuantNeuro/blob/master/NSCI801_Advanced_stats.ipynb)
 
-### Quantitative wet lab / bench methods (Joe)
+### Quantitative wet lab / bench methods (Kaitlyn)
 
 * Image processing 
 
